@@ -1,11 +1,14 @@
 # How to switch themes in Flutter using BLoC
 
+![Header](https://github.com/Thanasis-Traitsis/flutter_theme_switch_bloc/blob/main/assets/article_images/header.png?raw=true)
+
 Welcome to the ultimate guide on how to switch themes in your Flutter application using BLoC. In this article, we're embarking on a journey to master the art of seamlessly toggling between light and dark themes. By leveraging the power of the BLoC pattern, we'll completely separate the theme-switching logic from the UI components, ensuring maintainability and flexibility as your app evolves.
 
 But wait, this is not your ordinary "theme-switching" article. Before we dive into the intricacies of toggling between themes, let's lay a solid foundation by exploring the entire theming process from the ground up. We'll start by learning how to create our own custom themes, diving into clean architecture essentials on how to meticulously separate the fonts, colors, and everything in between.
 
 So, let's dive right in and begin crafting our custom light and dark themes, shall we? We'll gently guide our themes onto the canvas of our Flutter app. Remember, there are no mistakes, only happy little themes waiting to emerge.
-![Bob Ross Start Gif]()
+
+![Bob Ross Start Gif](https://github.com/Thanasis-Traitsis/flutter_theme_switch_bloc/blob/main/assets/article_images/bob_ross_start.gif?raw=true)
 
 ## Setting up the custom App Theme
 
@@ -171,7 +174,7 @@ And that's pretty much it. That's how you create a custom theme. Now, all you ha
   }
 ```
 
-![Home Page Image]()
+<img src="https://github.com/Thanasis-Traitsis/flutter_theme_switch_bloc/blob/main/assets/article_images/light_home.png?raw=true" alt="Light Theme" width="300" height="auto">
 
 ## Switching themes
 
@@ -301,13 +304,13 @@ To finalize our theme-switching functionality, we'll implement the **ChangeTheme
   )
 ```
 
-![Dark Home Screen]()
+<img src="https://github.com/Thanasis-Traitsis/flutter_theme_switch_bloc/blob/main/assets/article_images/dark_home.png?raw=true" alt="Dark Theme" width="300" height="auto">
 
 ## Conclusion
 
 There you go everybody! Indeed, theme switching in Flutter becomes effortless with the BLoC pattern. By decoupling the theme logic from the UI components, BLoC enables smooth and efficient management of theme changes. With this pattern, we can seamlessly toggle between themes, ensuring a consistent and visually appealing user experience across our Flutter applications. Also, let's not forget that we've demonstrated the flexibility of creating custom themes, allowing us to break away from the traditional light and dark themes provided by Flutter.
 
-![Bob Ross End Gif]()
+![Bob Ross End Gif](https://github.com/Thanasis-Traitsis/flutter_theme_switch_bloc/blob/main/assets/article_images/bob_ross_ending.gif?raw=true)
 
 If you enjoyed this article and want to stay connected, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/thanasis-traitsis/).
 
