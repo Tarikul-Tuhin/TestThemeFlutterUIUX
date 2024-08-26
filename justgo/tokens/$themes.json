@@ -50,10 +50,6 @@
     "selectedTokenSets": {
       "Primitives/default": "source",
       "Alias/default": "source",
-      "Mode/Light": "source",
-      "Mode/Dark": "source",
-      "Components/Light": "source",
-      "Components/Dark": "source",
       "Brand/JustGo": "enabled"
     },
     "group": "Brand"
