@@ -1,0 +1,46 @@
+{
+  "brand": {
+    "colors": {
+      "50": {
+        "value": "{colors.error.50}",
+        "type": "color"
+      },
+      "100": {
+        "value": "{colors.error.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{colors.error.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{colors.error.300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{colors.error.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{colors.error.500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colors.error.600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{colors.error.700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colors.error.800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{colors.error.900}",
+        "type": "color"
+      }
+    }
+  }
+}

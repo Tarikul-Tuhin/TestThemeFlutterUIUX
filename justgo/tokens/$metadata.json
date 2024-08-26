@@ -1,3 +1,14 @@
 {
-  "tokenSetOrder": []
+  "tokenSetOrder": [
+    "Primitives/default",
+    "Alias/default",
+    "Mode/Light",
+    "Mode/Dark",
+    "Components/Light",
+    "Components/Dark",
+    "Brand/JustGo",
+    "Brand/Red",
+    "Brand/Blue",
+    "Brand/Violet"
+  ]
 }

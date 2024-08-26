@@ -3,14 +3,59 @@
     "id": "301303cf2b3a6c4be5c72be5e6d15631d141ad68",
     "name": "Light",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {},
+    "selectedTokenSets": {
+      "Primitives/default": "source",
+      "Alias/default": "source",
+      "Mode/Light": "enabled"
+    },
     "group": "Mode"
   },
   {
     "id": "ab9f5bd28a72dfbfb38c1c735ff7dff6909b2517",
     "name": "Dark",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {},
+    "selectedTokenSets": {
+      "Primitives/default": "source",
+      "Alias/default": "source",
+      "Mode/Dark": "enabled"
+    },
     "group": "Mode"
+  },
+  {
+    "id": "9b62d5c3792a2e590d7d3231a7afe34a8e940e80",
+    "name": "Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Primitives/default": "source",
+      "Alias/default": "source",
+      "Components/Light": "enabled"
+    },
+    "group": "Component"
+  },
+  {
+    "id": "4467e7492037cb1fb41fa6d7de035a3d2b4c94f0",
+    "name": "Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Primitives/default": "source",
+      "Alias/default": "source",
+      "Components/Dark": "enabled"
+    },
+    "group": "Component"
+  },
+  {
+    "id": "1f3844c8b02121e3ad2a0b1d8733a8c243b0ded9",
+    "name": "JustGo",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Primitives/default": "source",
+      "Alias/default": "source",
+      "Mode/Light": "source",
+      "Mode/Dark": "source",
+      "Components/Light": "source",
+      "Components/Dark": "source",
+      "Brand/JustGo": "enabled"
+    },
+    "group": "Brand"
   }
 ]

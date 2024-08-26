@@ -1,0 +1,30 @@
+{
+  "colors": {
+    "app": {
+      "avatar": {
+        "bg": {
+          "text": {
+            "default": {
+              "value": "{colors.dark.700}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{brand.colors.50}",
+              "type": "color"
+            }
+          },
+          "icons": {
+            "default": {
+              "value": "{colors.dark.700}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{brand.colors.50}",
+              "type": "color"
+            }
+          }
+        }
+      }
+    }
+  }
+}
