@@ -2,506 +2,506 @@
   "colors": {
     "dark": {
       "50": {
-        "value": "{colors.black.50}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.black.50}"
       },
       "100": {
-        "value": "{colors.black.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.black.100}"
       },
       "200": {
-        "value": "{colors.black.200}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.black.200}"
       },
       "300": {
-        "value": "{colors.black.300}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.black.300}"
       },
       "400": {
-        "value": "{colors.black.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.black.400}"
       },
       "500": {
-        "value": "{colors.black.500}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.black.500}"
       },
       "600": {
-        "value": "{colors.black.600}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.black.600}"
       },
       "700": {
-        "value": "{colors.black.700}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.black.700}"
       },
       "800": {
-        "value": "{colors.black.800}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.black.800}"
       },
       "900": {
-        "value": "{colors.black.900}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.black.900}"
       }
     },
     "neutral": {
       "50": {
-        "value": "{colors.gray.50}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.gray.50}"
       },
       "100": {
-        "value": "{colors.gray.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.gray.100}"
       },
       "200": {
-        "value": "{colors.gray.200}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.gray.200}"
       },
       "300": {
-        "value": "{colors.gray.300}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.gray.300}"
       },
       "400": {
-        "value": "{colors.gray.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.gray.400}"
       },
       "500": {
-        "value": "{colors.gray.500}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.gray.500}"
       },
       "600": {
-        "value": "{colors.gray.600}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.gray.600}"
       },
       "700": {
-        "value": "{colors.gray.700}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.gray.700}"
       },
       "800": {
-        "value": "{colors.gray.800}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.gray.800}"
       },
       "900": {
-        "value": "{colors.gray.900}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.gray.900}"
       }
     },
     "complementary": {
       "50": {
-        "value": "{colors.violet.50}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.violet.50}"
       },
       "100": {
-        "value": "{colors.violet.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.violet.100}"
       },
       "200": {
-        "value": "{colors.violet.200}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.violet.200}"
       },
       "300": {
-        "value": "{colors.violet.300}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.violet.300}"
       },
       "400": {
-        "value": "{colors.violet.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.violet.400}"
       },
       "500": {
-        "value": "{colors.violet.500}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.violet.500}"
       },
       "600": {
-        "value": "{colors.violet.600}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.violet.600}"
       },
       "700": {
-        "value": "{colors.violet.700}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.violet.700}"
       },
       "800": {
-        "value": "{colors.violet.800}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.violet.800}"
       },
       "900": {
-        "value": "{colors.violet.900}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.violet.900}"
       }
     },
     "error": {
       "50": {
-        "value": "{colors.red.50}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.red.50}"
       },
       "100": {
-        "value": "{colors.red.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.red.100}"
       },
       "200": {
-        "value": "{colors.red.200}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.red.200}"
       },
       "300": {
-        "value": "{colors.red.300}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.red.300}"
       },
       "400": {
-        "value": "{colors.red.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.red.400}"
       },
       "500": {
-        "value": "{colors.red.500}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.red.500}"
       },
       "600": {
-        "value": "{colors.red.600}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.red.600}"
       },
       "700": {
-        "value": "{colors.red.700}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.red.700}"
       },
       "800": {
-        "value": "{colors.red.800}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.red.800}"
       },
       "900": {
-        "value": "{colors.red.900}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.red.900}"
       }
     },
     "info": {
       "50": {
-        "value": "{colors.blue.50}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.blue.50}"
       },
       "100": {
-        "value": "{colors.blue.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.blue.100}"
       },
       "200": {
-        "value": "{colors.blue.200}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.blue.200}"
       },
       "300": {
-        "value": "{colors.blue.300}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.blue.300}"
       },
       "400": {
-        "value": "{colors.blue.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.blue.400}"
       },
       "500": {
-        "value": "{colors.blue.500}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.blue.500}"
       },
       "600": {
-        "value": "{colors.blue.600}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.blue.600}"
       },
       "700": {
-        "value": "{colors.blue.700}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.blue.700}"
       },
       "800": {
-        "value": "{colors.blue.800}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.blue.800}"
       },
       "900": {
-        "value": "{colors.blue.900}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.blue.900}"
       }
     },
     "secondary": {
       "50": {
-        "value": "{colors.metal.50}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.metal.50}"
       },
       "100": {
-        "value": "{colors.metal.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.metal.100}"
       },
       "200": {
-        "value": "{colors.metal.200}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.metal.200}"
       },
       "300": {
-        "value": "{colors.metal.300}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.metal.300}"
       },
       "400": {
-        "value": "{colors.metal.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.metal.400}"
       },
       "500": {
-        "value": "{colors.metal.500}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.metal.500}"
       },
       "600": {
-        "value": "{colors.metal.600}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.metal.600}"
       },
       "700": {
-        "value": "{colors.metal.700}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.metal.700}"
       },
       "800": {
-        "value": "{colors.metal.800}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.metal.800}"
       },
       "900": {
-        "value": "{colors.metal.900}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.metal.900}"
       }
     },
     "primary": {
       "50": {
-        "value": "{colors.green.50}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.green.50}"
       },
       "100": {
-        "value": "{colors.green.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.green.100}"
       },
       "200": {
-        "value": "{colors.green.200}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.green.200}"
       },
       "300": {
-        "value": "{colors.green.300}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.green.300}"
       },
       "400": {
-        "value": "{colors.green.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.green.400}"
       },
       "500": {
-        "value": "{colors.green.500}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.green.500}"
       },
       "600": {
-        "value": "{colors.green.600}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.green.600}"
       },
       "700": {
-        "value": "{colors.green.700}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.green.700}"
       },
       "800": {
-        "value": "{colors.green.800}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.green.800}"
       },
       "900": {
-        "value": "{colors.green.900}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.green.900}"
       }
     },
     "warning": {
       "50": {
-        "value": "{colors.yellow.50}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.yellow.50}"
       },
       "100": {
-        "value": "{colors.yellow.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.yellow.100}"
       },
       "200": {
-        "value": "{colors.yellow.200}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.yellow.200}"
       },
       "300": {
-        "value": "{colors.yellow.300}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.yellow.300}"
       },
       "400": {
-        "value": "{colors.yellow.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.yellow.400}"
       },
       "500": {
-        "value": "{colors.yellow.500}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.yellow.500}"
       },
       "600": {
-        "value": "{colors.yellow.600}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.yellow.600}"
       },
       "700": {
-        "value": "{colors.yellow.700}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.yellow.700}"
       },
       "800": {
-        "value": "{colors.yellow.800}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.yellow.800}"
       },
       "900": {
-        "value": "{colors.yellow.900}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.yellow.900}"
       }
     },
     "success": {
       "50": {
-        "value": "{colors.green.50}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.green.50}"
       },
       "100": {
-        "value": "{colors.green.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.green.100}"
       },
       "200": {
-        "value": "{colors.green.200}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.green.200}"
       },
       "300": {
-        "value": "{colors.green.300}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.green.300}"
       },
       "400": {
-        "value": "{colors.green.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.green.400}"
       },
       "500": {
-        "value": "{colors.green.500}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.green.500}"
       },
       "600": {
-        "value": "{colors.green.600}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.green.600}"
       },
       "700": {
-        "value": "{colors.green.700}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.green.700}"
       },
       "800": {
-        "value": "{colors.green.800}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.green.800}"
       },
       "900": {
-        "value": "{colors.green.900}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.green.900}"
       }
     },
     "overlay": {
       "default": {
-        "value": "#263238bf",
-        "type": "color"
+        "$type": "color",
+        "$value": "#263238bf"
       },
       "inverse": {
-        "value": "#ffffffbf",
-        "type": "color"
+        "$type": "color",
+        "$value": "#ffffffbf"
       }
     },
     "opacity": {
       "disabled": {
-        "value": "#ffffff80",
-        "type": "color"
+        "$type": "color",
+        "$value": "#ffffff80"
       }
     }
   },
   "dimension": {
     "padding": {
       "reset": {
-        "value": "{dimensions.0}",
-        "type": "number"
+        "$type": "number",
+        "$value": "{dimensions.0}"
       },
       "xxs": {
-        "value": "{dimensions.2}",
-        "type": "number"
+        "$type": "number",
+        "$value": "{dimensions.2}"
       },
       "xs": {
-        "value": "{dimensions.3}",
-        "type": "number"
+        "$type": "number",
+        "$value": "{dimensions.3}"
       },
       "sm": {
-        "value": "{dimensions.5}",
-        "type": "number"
+        "$type": "number",
+        "$value": "{dimensions.5}"
       },
       "md": {
-        "value": "{dimensions.9}",
-        "type": "number"
+        "$type": "number",
+        "$value": "{dimensions.9}"
       },
       "lg": {
-        "value": "{dimensions.13}",
-        "type": "number"
+        "$type": "number",
+        "$value": "{dimensions.13}"
       },
       "xl": {
-        "value": "{dimensions.17}",
-        "type": "number"
+        "$type": "number",
+        "$value": "{dimensions.17}"
       },
       "xxl": {
-        "value": "{dimensions.29}",
-        "type": "number"
+        "$type": "number",
+        "$value": "{dimensions.29}"
       }
     },
     "radius": {
       "reset": {
-        "value": "{dimensions.0}",
-        "type": "number"
+        "$type": "number",
+        "$value": "{dimensions.0}"
       },
       "xxs": {
-        "value": "{dimensions.2}",
-        "type": "number"
+        "$type": "number",
+        "$value": "{dimensions.2}"
       },
       "xs": {
-        "value": "{dimensions.3}",
-        "type": "number"
+        "$type": "number",
+        "$value": "{dimensions.3}"
       },
       "sm": {
-        "value": "{dimensions.5}",
-        "type": "number"
+        "$type": "number",
+        "$value": "{dimensions.5}"
       },
       "md": {
-        "value": "{dimensions.9}",
-        "type": "number"
+        "$type": "number",
+        "$value": "{dimensions.9}"
       },
       "lg": {
-        "value": "{dimensions.13}",
-        "type": "number"
+        "$type": "number",
+        "$value": "{dimensions.13}"
       },
       "xl": {
-        "value": "{dimensions.17}",
-        "type": "number"
+        "$type": "number",
+        "$value": "{dimensions.17}"
       },
       "rounded": {
-        "value": "{dimensions.43}",
-        "type": "number"
+        "$type": "number",
+        "$value": "{dimensions.43}"
       }
     },
     "border": {
       "reset": {
-        "value": "{dimensions.0}",
-        "type": "number"
+        "$type": "number",
+        "$value": "{dimensions.0}"
       },
       "xs": {
-        "value": "{dimensions.1}",
-        "type": "number"
+        "$type": "number",
+        "$value": "{dimensions.1}"
       },
       "sm": {
-        "value": "{dimensions.2}",
-        "type": "number"
+        "$type": "number",
+        "$value": "{dimensions.2}"
       },
       "md": {
-        "value": "{dimensions.3}",
-        "type": "number"
+        "$type": "number",
+        "$value": "{dimensions.3}"
       }
     },
     "icon": {
       "xs": {
-        "value": "{dimensions.9}",
-        "type": "number"
+        "$type": "number",
+        "$value": "{dimensions.9}"
       },
       "sm": {
-        "value": "{dimensions.11}",
-        "type": "number"
+        "$type": "number",
+        "$value": "{dimensions.11}"
       },
       "md": {
-        "value": "{dimensions.13}",
-        "type": "number"
+        "$type": "number",
+        "$value": "{dimensions.13}"
       },
       "lg": {
-        "value": "{dimensions.16}",
-        "type": "number"
+        "$type": "number",
+        "$value": "{dimensions.16}"
       },
       "xl": {
-        "value": "{dimensions.19}",
-        "type": "number"
+        "$type": "number",
+        "$value": "{dimensions.19}"
       }
     }
   }

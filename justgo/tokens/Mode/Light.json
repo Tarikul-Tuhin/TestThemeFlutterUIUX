@@ -2,65 +2,65 @@
   "colors": {
     "state": {
       "error": {
-        "value": "{colors.red.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.red.400}"
       },
       "warning": {
-        "value": "{colors.yellow.800}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.yellow.800}"
       },
       "success": {
-        "value": "{colors.success.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.success.400}"
       },
       "info": {
-        "value": "{colors.blue.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.blue.400}"
       }
     },
     "surface": {
       "canvas": {
-        "value": "{colors.neutral.50}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.neutral.50}"
       },
       "surface-default": {
-        "value": "{colors.base.50}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.base.50}"
       },
       "surface-raised": {
-        "value": "{colors.neutral.50}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.neutral.50}"
       },
       "surface-disabled": {
-        "value": "{colors.neutral.50}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.neutral.50}"
       },
       "state": {
         "success": {
-          "value": "{colors.success.50}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{colors.success.50}"
         },
         "info": {
-          "value": "{colors.blue.50}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{colors.blue.50}"
         },
         "error": {
-          "value": "{colors.red.50}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{colors.red.50}"
         },
         "warning": {
-          "value": "{colors.yellow.50}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{colors.yellow.50}"
         }
       },
       "surface-inverse": {
-        "value": "{colors.dark.900}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.dark.900}"
       },
       "brand": {
         "surface-primary": {
-          "value": "{brand.colors.50}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{brand.colors.50}"
         }
       }
     },
@@ -68,155 +68,155 @@
       "text": {
         "default": {
           "title": {
-            "value": "{colors.secondary.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{colors.secondary.900}"
           },
           "heading": {
-            "value": "{colors.secondary.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{colors.secondary.900}"
           },
           "subtitle": {
-            "value": "{colors.secondary.700}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{colors.secondary.700}"
           },
           "body": {
-            "value": "{colors.secondary.800}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{colors.secondary.800}"
           },
           "info": {
-            "value": "{colors.secondary.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{colors.secondary.600}"
           },
           "caption": {
-            "value": "{colors.secondary.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{colors.secondary.500}"
           },
           "overline": {
-            "value": "{colors.secondary.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{colors.secondary.400}"
           },
           "disabled": {
-            "value": "{colors.secondary.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{colors.secondary.200}"
           }
         },
         "inverse": {
           "heading": {
-            "value": "{colors.base.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{colors.base.50}"
           },
           "title": {
-            "value": "{colors.base.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{colors.base.50}"
           },
           "subtitle": {
-            "value": "{colors.neutral.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{colors.neutral.300}"
           },
           "body": {
-            "value": "{colors.neutral.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{colors.neutral.400}"
           },
           "info": {
-            "value": "{colors.neutral.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{colors.neutral.500}"
           },
           "caption": {
-            "value": "{colors.neutral.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{colors.neutral.600}"
           },
           "overline": {
-            "value": "{colors.neutral.700}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{colors.neutral.700}"
           }
         },
         "brand": {
           "highlighted": {
-            "value": "{brand.colors.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{brand.colors.500}"
           }
         }
       },
       "icon": {
         "default": {
-          "value": "{colors.secondary.700}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{colors.secondary.700}"
         },
         "secondary": {
-          "value": "{colors.secondary.900}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{colors.secondary.900}"
         },
         "info": {
-          "value": "{colors.state.info}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{colors.state.info}"
         },
         "success": {
-          "value": "{colors.state.success}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{colors.state.success}"
         },
         "warning": {
-          "value": "{colors.state.warning}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{colors.state.warning}"
         },
         "error": {
-          "value": "{colors.state.error}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{colors.state.error}"
         },
         "complementary": {
-          "value": "{colors.complementary.700}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{colors.complementary.700}"
         },
         "inverse": {
-          "value": "{colors.base.50}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{colors.base.50}"
         },
         "disabled": {
-          "value": "{colors.secondary.200}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{colors.secondary.200}"
         },
         "brand": {
           "highlighted": {
-            "value": "{brand.colors.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{brand.colors.500}"
           }
         }
       }
     },
     "border": {
       "default": {
-        "value": "{colors.secondary.50}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.secondary.50}"
       },
       "focused": {
-        "value": "{colors.secondary.700}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.secondary.700}"
       },
       "disabled": {
-        "value": "{colors.secondary.50}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.secondary.50}"
       },
       "state": {
         "info": {
-          "value": "{colors.info.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{colors.info.100}"
         },
         "success": {
-          "value": "{colors.primary.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{colors.primary.100}"
         },
         "warning": {
-          "value": "{colors.warning.300}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{colors.warning.300}"
         },
         "error": {
-          "value": "{colors.error.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{colors.error.100}"
         }
       },
       "brand": {
         "highlighted": {
-          "value": "{brand.colors.500}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{brand.colors.500}"
         }
       }
     }

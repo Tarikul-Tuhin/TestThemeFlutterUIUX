@@ -2,44 +2,44 @@
   "brand": {
     "colors": {
       "50": {
-        "value": "{colors.info.50}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.info.50}"
       },
       "100": {
-        "value": "{colors.info.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.info.100}"
       },
       "200": {
-        "value": "{colors.info.200}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.info.200}"
       },
       "300": {
-        "value": "{colors.info.300}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.info.300}"
       },
       "400": {
-        "value": "{colors.info.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.info.400}"
       },
       "500": {
-        "value": "{colors.info.500}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.info.500}"
       },
       "600": {
-        "value": "{colors.info.600}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.info.600}"
       },
       "700": {
-        "value": "{colors.info.700}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.info.700}"
       },
       "800": {
-        "value": "{colors.info.800}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.info.800}"
       },
       "900": {
-        "value": "{colors.info.900}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.info.900}"
       }
     }
   }

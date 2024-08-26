@@ -2,44 +2,44 @@
   "brand": {
     "colors": {
       "50": {
-        "value": "{colors.complementary.50}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.complementary.50}"
       },
       "100": {
-        "value": "{colors.complementary.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.complementary.100}"
       },
       "200": {
-        "value": "{colors.complementary.200}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.complementary.200}"
       },
       "300": {
-        "value": "{colors.complementary.300}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.complementary.300}"
       },
       "400": {
-        "value": "{colors.complementary.500}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.complementary.500}"
       },
       "500": {
-        "value": "{colors.complementary.500}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.complementary.500}"
       },
       "600": {
-        "value": "{colors.complementary.600}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.complementary.600}"
       },
       "700": {
-        "value": "{colors.complementary.700}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.complementary.700}"
       },
       "800": {
-        "value": "{colors.complementary.800}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.complementary.800}"
       },
       "900": {
-        "value": "{colors.complementary.900}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.complementary.900}"
       }
     }
   }

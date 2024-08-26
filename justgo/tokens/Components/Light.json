@@ -5,22 +5,22 @@
         "bg": {
           "text": {
             "default": {
-              "value": "{colors.neutral.50}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{colors.neutral.50}"
             },
             "active": {
-              "value": "{brand.colors.50}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{brand.colors.50}"
             }
           },
           "icons": {
             "default": {
-              "value": "{colors.secondary.700}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{colors.secondary.700}"
             },
             "active": {
-              "value": "{brand.colors.50}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{brand.colors.50}"
             }
           }
         }
