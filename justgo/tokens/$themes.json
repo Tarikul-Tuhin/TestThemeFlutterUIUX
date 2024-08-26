@@ -1,0 +1,24 @@
+[
+  {
+    "id": "301303cf2b3a6c4be5c72be5e6d15631d141ad68",
+    "name": "Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Brand/JustGo/Light": "enabled",
+      "Alias": "enabled",
+      "Primitives": "enabled"
+    },
+    "group": "Mode"
+  },
+  {
+    "id": "ab9f5bd28a72dfbfb38c1c735ff7dff6909b2517",
+    "name": "Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Primitives": "enabled",
+      "Alias": "enabled",
+      "Brand/JustGo/Dark": "enabled"
+    },
+    "group": "Mode"
+  }
+]
