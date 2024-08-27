@@ -24,7 +24,7 @@
         "type": "color"
       },
       "surface-default": {
-        "value": "{colors.base.50}",
+        "value": "{colors.black.400}",
         "type": "color"
       },
       "surface-raised": {
